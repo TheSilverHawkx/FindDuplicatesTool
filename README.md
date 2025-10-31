@@ -1,7 +1,3 @@
-Here’s a well-structured `README.md` for your **Find Duplicate Files** project — based directly on your codebase and configuration (`pyproject.toml`, `main.py`, `files_handler.py`, and `report_handler.py`).
-
----
-
 # 🧮 Find Duplicate Files
 
 A **multithreaded Python utility** to scan directories recursively and find **duplicate files** efficiently based on their content using **BLAKE3 hashing**.
